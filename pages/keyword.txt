@@ -1,0 +1,46 @@
+penduduk
+rumah tangga
+ruta
+cacah
+pencacahan
+pemutakhiran
+updating
+blok sensus
+sampel
+populasi
+data
+angkatan kerja
+bekerja
+berusaha
+industri
+inflasi
+jasa
+kawin
+kecacatan
+kepadatan penduduk
+komoditas
+konsumsi
+luas lantai
+lapangan usaha
+perjalanan
+pertanian
+perikanan
+perkebunan
+pekerjaan
+obyek wisata
+pekerja
+pendapatan
+pengangguran
+pengeluaran
+sensus
+survei
+tenaga kerja
+buruh
+usaha
+fertilitas
+lahir
+mortalitas
+pindah
+rawat inap
+akte
+air minum
